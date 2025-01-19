@@ -9,7 +9,8 @@ const root = createRoot(domNode);
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    {/* Set basename for GitHub Pages */}
+    <BrowserRouter basename="/resume-website">
       <App />
     </BrowserRouter>
   </React.StrictMode>

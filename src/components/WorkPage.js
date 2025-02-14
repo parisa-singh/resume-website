@@ -13,17 +13,15 @@ import Card from '../subComponents/Card'
 import { YinYang } from './AllSvgs';
 
 const Main = styled(motion.ul)`
-  position: fixed;
-  top: 9rem;
-  left: calc(10rem + 15vw);
-  height: 40vh; 
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content: center; 
-  gap: 20px; 
-  color: white;
-  list-style: none; 
-`;
+position: fixed;
+top: 9rem;
+left: calc(10rem + 15vw);
+height: 40vh;
+display: flex;
+color: white;
+flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+
+`
 
 const Box = styled.div`
 background-color:  ${props => props.theme.body};

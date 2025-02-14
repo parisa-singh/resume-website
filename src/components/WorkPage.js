@@ -22,7 +22,7 @@ color: white;
 `
 const Box = styled.div`
 background-color:  ${props => props.theme.body};
-height: 400vh; 
+height: 1000vh; 
 position: relative;
 display:flex;
 align-items: center;
@@ -90,23 +90,7 @@ const WorkPage = () => {
           shadowOffsetX="4"
           shadowOffsetY="4"
           shadowBlur="12"
-        />
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
+        />        
       </Box>
     </ThemeProvider>
   )

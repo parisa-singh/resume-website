@@ -19,8 +19,6 @@ left: calc(10rem + 15vw);
 height: 40vh;
 display: flex;
 color: white;
-flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
-
 `
 
 const Box = styled.div`

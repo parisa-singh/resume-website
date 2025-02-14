@@ -13,13 +13,16 @@ import Card from '../subComponents/Card'
 import { YinYang } from './AllSvgs';
 
 const Main = styled(motion.ul)`
-position: fixed; 
-top: 9rem; 
-left: calc(10rem + 15vw);
-height: 40vh;
-display: flex;
-color: white;
-`
+  position: fixed;
+  top: 9rem;
+  left: calc(10rem + 15vw);
+  height: 40vh;  
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+  grid-gap: 20px; 
+  color: white;
+  list-style: none; 
+`;
 const Box = styled.div`
 background-color:  ${props => props.theme.body};
 height: 1000vh; 

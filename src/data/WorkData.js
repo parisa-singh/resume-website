@@ -25,8 +25,8 @@ export const Work = [
         description:"An interactive map of Amherst, MA, featuring location search and 3D view functionality using Google Maps API.",
         tags:["js","css","html","GoogleMapsAPI"],
         
-        demo:"https://parisa-singh.github.io/resume-website/",
-        github:"https://parisa-singh.github.io/resume-website/"
+        demo:"https://parisa-singh.github.io/amherst-map/",
+        github:"https://parisa-singh.github.io/amherst-map/"
     },
     {
         id:4,

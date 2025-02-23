@@ -5,22 +5,16 @@ Welcome to my personal resume website! This project showcases my skills, experie
 ## 🌐 Live Demo
 [Check out my resume website here](https://parisa-singh.github.io/resume-website/) 
 
-![Website Preview]
-# Home Page
-(Portfolio Images\homepage-1.png)
-(Portfolio Images\homepage-2.png)
+![Homepage 1](Portfolio Images\homepage-1.png) 
+![Homepage 2](Portfolio Images\homepage-2.png) 
 
-# About Page
-(Portfolio Images\about.png)
+![About Page](Portfolio Images\about.png)
 
-# Blogs Page
-(Portfolio Images\blogs.png)
+![Blog Page](Portfolio Images\blogs.png) 
 
-# Skills Page 
-(Portfolio Images\skills.png)
+![Skills Page](Portfolio Images\skills.png) 
 
-# Projects Page 
-(Portfolio Images\projects.png)
+![Projects Page](Portfolio Images\projects.png)
 
 ## 🚀 Features
 - 📌 **About Me** – Brief introduction and career background.

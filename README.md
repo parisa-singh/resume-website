@@ -15,8 +15,8 @@ Welcome to my personal resume website! This project showcases my skills, experie
 ## 🏗 Tech Stack
 - **Frontend:** React JS, TypeScript, Styled-Components
 - **Animations:** Framer-motion
-- **Deployment:** GitHub Pages / Vercel / Netlify *(Mention if applicable)*
-- **Icons & Fonts:** FontAwesome, Google Fonts *(If used)*
+- **Deployment:** GitHub Pages 
+- **Icons & Fonts:** FontAwesome, Google Fonts 
 
 
 ## 🛠 Installation & Setup
